@@ -4,10 +4,10 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1>About this app</h1>
+	<h1>About Me</h1>
 
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
+		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app and is just an example. You can make your own by typing the
 		following into your command line and following the prompts:
 	</p>
 
